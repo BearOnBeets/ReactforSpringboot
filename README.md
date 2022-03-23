@@ -11,13 +11,13 @@ You may also see any lint errors in the console.
 
 Output Images:\
 
-![EditTask](output_images/Screenshot (93).png)
-![EditTask](output_images/Screenshot (94).png)
-![EditTask](output_images/Screenshot (95).png)
-![EditTask](output_images/Screenshot (96).png)
-![EditTask](output_images/Screenshot (97).png)
-![EditTask](output_images/Screenshot (98).png)
-![EditTask](output_images/Screenshot (99).png)
+![EditTask](output_images/Screenshot(93).png)
+![EditTask](output_images/Screenshot(94).png)
+![EditTask](output_images/Screenshot(95).png)
+![EditTask](output_images/Screenshot(96).png)
+![EditTask](output_images/Screenshot(97).png)
+![EditTask](output_images/Screenshot(98).png)
+![EditTask](output_images/Screenshot(99).png)
 
 
 
